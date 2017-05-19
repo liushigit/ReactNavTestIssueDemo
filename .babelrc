@@ -1,0 +1,13 @@
+{
+  "presets": [
+    "react-native",
+    "latest"
+  ],
+  "env": {
+    "test": {
+      "presets": [
+        "react-native"
+      ]
+    }
+  }
+}
